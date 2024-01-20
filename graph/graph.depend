@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705682483 source:d:\laporan algo\graph\main.cpp
+	<iostream>
+	<cstdlib>
+

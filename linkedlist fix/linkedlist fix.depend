@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705706802 source:d:\laporan algo\linkedlist fix\main.cpp
+	<iostream>
+	<cstdlib>
+
