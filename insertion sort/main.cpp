@@ -25,8 +25,7 @@ void insertionsort(int data[], int n) {
 
         while (j >= 0 && data[j] > temp) {
             cout << "i : " << i << ", j : " << j << ", temp : " << temp << " ";
-
-            // Print array only when an element is moved
+
             for (int k = 0; k < n; k++) {
                 if (k == j + 1) {
                     cout << "[" << data[k] << "] ";
