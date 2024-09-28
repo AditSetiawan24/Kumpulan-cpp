@@ -1,2 +1,2 @@
 # Kumpulan-cpp
-Kumpulan c++ semester 1 & semester 2
+Kumpulan c++ semester 1
